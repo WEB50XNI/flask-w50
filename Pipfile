@@ -10,6 +10,7 @@ sqlalchemy = "*"
 python-dotenv = "*"
 psycopg2-binary = "*"
 flask-session = "*"
+gunicorn = "*"
 
 [dev-packages]
 
